@@ -27,7 +27,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
               ),
             ),
             SizedBox(
-              height: 50.0,
+              height: 48.0,
             ),
             TextField(
               onChanged: (value) {
